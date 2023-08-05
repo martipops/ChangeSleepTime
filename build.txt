@@ -1,0 +1,9 @@
+displayName = Change Sleep Time
+author = Martipops
+version = 2023.8.3.3
+homepage = https://discord.gg/MKcjBKwBVu
+side = Both
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, bin\*, .vs\*, *.sln, obj\*

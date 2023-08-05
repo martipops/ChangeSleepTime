@@ -1,0 +1,11 @@
+Configs: {
+	Config: {
+		DisplayName: Config
+		Header: Mod Config
+
+		SleepTimeMultiplier: {
+			Label: Sleep Time Speed Multiplier
+			Tooltip: How many minutes should pass each for each second sleeping. [Min: 0, Max: 100, Default: 5]
+		}
+	}
+}

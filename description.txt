@@ -1,0 +1,8 @@
+Allows you to modify the rate at which time passes by while player(s) are sleeping.
+
+Change the rate of minutes-passed per second in the mod config.
+
+Join the discord to report bugs & suggest changes:
+https://discord.gg/MKcjBKwBVu
+
+Original Mod Creator: Aberranthian
