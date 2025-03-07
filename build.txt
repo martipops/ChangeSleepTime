@@ -1,6 +1,6 @@
 displayName = Change Sleep Time
 author = Martipops
-version = 2023.8.3.3
+version = 2025.3.6.1
 homepage = https://discord.gg/MKcjBKwBVu
 side = Both
 hideCode = false
