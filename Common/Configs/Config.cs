@@ -8,10 +8,4 @@ public class Config : ModConfig
 	public int SleepTimeMultiplier;
 
 	public override ConfigScope Mode => ConfigScope.ServerSide;
-
-	public override bool AcceptClientChanges(ModConfig pendingConfig, int whoAmI, ref string message)
-	{
-		message = "Cannot modify config whilst in a server!";
-		return false;
-	}
 }
